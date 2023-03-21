@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.pouffy.forgedinfire.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "forgedinfire.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
