@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "iceandfire:dragon_skull_lightning"
+  },
+  "value": 4,
+  "needed": 1,
+  "material": "forgedinfire:dragon_bone",
+  "leftover": "iceandfire:dragonbone"
+}
