@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:swappable_modifier",
+  "inputs": [
+    {
+      "item": "iceandfire:dragonscales_red"
+    },             
+    {
+      "item": "iceandfire:dragonscales_red"
+    },            
+    {
+      "item": "iceandfire:dragonscales_red"
+    }
+  ],
+  "tools": [
+    {
+      "tag": "tconstruct:modifiable/embellishment/metal"
+    }
+  ],
+  "result": {
+    "name": "tconstruct:embellishment",
+    "value": "forgedinfire:dragon_scale#red"
+  }
+}

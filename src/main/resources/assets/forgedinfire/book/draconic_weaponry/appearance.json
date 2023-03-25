@@ -1,0 +1,10 @@
+{
+  "coverTexture": "forgedinfire:book/images/covers/draconic_weaponry_cover.png",
+  "coverColor": -1,
+  "bookTexture": "forgedinfire:book/images/covers/draconic_weaponry_pages.png",
+  "arrowColor": -1,
+  "slotColor": 0xFDF500,
+  "drawSectionListText": true,
+  "centerPageTitles": true,
+  "drawFourColumnIndex": true
+}

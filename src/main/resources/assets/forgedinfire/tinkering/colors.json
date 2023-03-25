@@ -1,0 +1,31 @@
+{
+  "material.forgedinfire": {
+    "dragon_bone": "#807A68",
+    "wither_bone": "#1A1A1A",
+    "dragon_scale#red": "#600A0A",
+    "dragon_scale#emerald": "#40502c",
+    "dragon_scale#bronze": "#7b622b",
+    "dragon_scale#amethyst": "#361c59",
+    "dragon_scale#black": "#232323",
+    "dragon_scale#blue": "#afd1e1",
+    "dragon_scale#copper": "#5a3428",
+    "dragon_scale#electric_blue": "#241c59",
+    "dragon_scale#gray": "#4b443f",
+    "dragon_scale#sapphire": "#185084",
+    "dragon_scale#silver": "#595c5e",
+    "dragon_scale#white": "#f1f1f1",
+    "dragon_scale.red": "#600A0A",
+    "dragon_scale.emerald": "#40502c",
+    "dragon_scale.bronze": "#7b622b",
+    "dragon_scale.amethyst": "#361c59",
+    "dragon_scale.black": "#232323",
+    "dragon_scale.blue": "#afd1e1",
+    "dragon_scale.copper": "#5a3428",
+    "dragon_scale.electric_blue": "#241c59",
+    "dragon_scale.gray": "#4b443f",
+    "dragon_scale.sapphire": "#185084",
+    "dragon_scale.silver": "#595c5e",
+    "dragon_scale.white": "#f1f1f1"
+
+  }
+}

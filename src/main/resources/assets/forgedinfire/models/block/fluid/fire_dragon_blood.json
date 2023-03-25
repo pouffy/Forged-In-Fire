@@ -1,0 +1,7 @@
+{
+  "loader": "mantle:fluid_texture",
+  "textures": {
+    "still": "forgedinfire:block/fluid/fire_dragon_blood/still",
+    "flowing": "forgedinfire:block/fluid/fire_dragon_blood/flowing"
+  }
+}

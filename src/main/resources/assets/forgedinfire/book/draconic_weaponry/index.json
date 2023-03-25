@@ -1,0 +1,16 @@
+[
+  {
+    "name": "intro",
+    "data": "sections/intro.json",
+    "icon": {
+      "item": "iceandfire:dragonscales_red"
+    }
+  },
+  {
+    "name": "mythological_materials",
+    "extraData": { "tconstruct:material_tier": { "type": "tconstruct:melee_harvest", "tier": 7 } },
+    "icon": {
+      "item": "iceandfire:dragonsteel_fire_ingot"
+    }
+  }
+]
