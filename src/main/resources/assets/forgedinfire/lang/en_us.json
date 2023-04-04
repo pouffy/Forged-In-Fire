@@ -20,5 +20,7 @@
   "material.forgedinfire.wither_bone": "Witherbone",
 
 
-  "item.forgedinfire.draconic_weaponry": "Draconic Weaponry"
+  "item.forgedinfire.draconic_weaponry": "Draconic Weaponry",
+  "item.forgedinfire.glaive": "Glaive",
+  "item.forgedinfire.glaive.description": "A Glaive is a long polearm with a sharp, single-edged blade at the end."
 }

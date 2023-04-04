@@ -56,6 +56,7 @@ public class ForgedInFire
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
         bus.register(new ForgedTools());
+        ForgedTools.ITEMS.register(bus);
         ForgedFluids.FLUIDS.register(bus);
         ForgedCommons.ITEMS.register(bus);
         ForgedBookIDs.registerCommandSuggestion();

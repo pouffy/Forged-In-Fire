@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material",
-  "ingredient": {
-    "tag": "forgedinfire:dragon_scales"
-  },
-  "value": 1,
-  "needed": 2,
-  "material": "forgedinfire:dragon_scale"
-}

@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material",
-  "ingredient": {
-    "item": "iceandfire:dragonscales_black"
-  },
-  "value": 1,
-  "needed": 1,
-  "material": "forgedinfire:dragon_scale#black"
-}

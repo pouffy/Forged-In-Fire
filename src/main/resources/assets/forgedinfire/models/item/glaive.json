@@ -1,0 +1,29 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "head":          "forgedinfire:item/tool/glaive/head",
+    "broken_head":   "forgedinfire:item/tool/glaive/broken_head",
+    "handle":        "forgedinfire:item/tool/glaive/handle",
+    "grip":         "forgedinfire:item/tool/glaive/grip",
+    "accessory":        "forgedinfire:item/tool/glaive/accessory",
+
+    "large_head":          "forgedinfire:item/tool/glaive/large/head",
+    "large_broken_head":   "forgedinfire:item/tool/glaive/large/broken_head",
+    "large_handle":        "forgedinfire:item/tool/glaive/large/handle",
+    "large_grip":         "forgedinfire:item/tool/glaive/large/grip",
+    "large_accessory":        "forgedinfire:item/tool/glaive/large/accessory"
+  },
+  "modifier_roots": {
+    "small": [ "forgedinfire:item/tool/glaive/modifiers/" ],
+    "large": [ "forgedinfire:item/tool/glaive/large/modifiers/" ]
+  },
+  "large": true,
+  "large_offset": [-2, 2],
+  "parts": [
+    { "name": "handle", "index": 1 },
+    { "name": "head",   "index": 0, "broken": "broken_head" },
+    { "name": "grip", "index": 3 },
+    { "name": "accessory",  "index": 2 }
+  ]
+}
